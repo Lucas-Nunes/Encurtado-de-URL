@@ -17,7 +17,7 @@
     "helmet": "^3.22.0",
     "http": "0.0.0",
     "https": "^1.0.0",
-    "mongoose": "^5.9.9",
+    "mongoose": "^5.13.20",
     "morgan": "^1.10.0",
     "path": "^0.12.7",
     "require-dir": "^1.2.0",
